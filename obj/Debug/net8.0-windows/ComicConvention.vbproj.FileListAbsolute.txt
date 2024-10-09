@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\ComicConvention\bin\Debug\net8.0-windows\ComicConvention.exe
+C:\Users\HELLO\Source\Repos\ComicConvention\bin\Debug\net8.0-windows\ComicConvention.deps.json
+C:\Users\HELLO\Source\Repos\ComicConvention\bin\Debug\net8.0-windows\ComicConvention.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\ComicConvention\bin\Debug\net8.0-windows\ComicConvention.dll
+C:\Users\HELLO\Source\Repos\ComicConvention\bin\Debug\net8.0-windows\ComicConvention.pdb
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.frmComic.resources
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.Resources.resources
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.dll
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\refint\ComicConvention.dll
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.pdb
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ComicConvention.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\ComicConvention\obj\Debug\net8.0-windows\ref\ComicConvention.dll
